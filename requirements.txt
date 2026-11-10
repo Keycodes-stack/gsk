@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+perplexityai
+python-dotenv
+supabase
+pydantic-settings
+httpx
+google-genai
+python-multipart
+PyMuPDF
